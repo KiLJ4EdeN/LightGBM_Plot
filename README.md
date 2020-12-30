@@ -6,7 +6,7 @@ An extension to lightgbm plot module to make interpretable and useful lightgbm t
 
 
 ## Demo output:
-<img src="https://github.com/KiLJ4EdeN/LightGBM_Plot/blob/main/lgbm.png" width="50%" height="50%" />
+<img src="https://github.com/KiLJ4EdeN/LightGBM_Plot/blob/main/output.png" width="50%" height="50%" />
 
 
 ## How To Use:
