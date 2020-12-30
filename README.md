@@ -29,6 +29,6 @@ clf = LGBMClassifier(n_estimators=5)
 clf.fit(X, Y)
 ax = plot_tree(clf, tree_index=0, figsize=(5, 5), dpi=400, show_info=None,
                precision=3, orientation='vertical')
-plt.savefig('lgbm.png')
+plt.savefig('output.png')
 
 ```
